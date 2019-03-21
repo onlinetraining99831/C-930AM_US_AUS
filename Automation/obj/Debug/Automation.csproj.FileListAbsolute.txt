@@ -1,0 +1,17 @@
+C:\Users\koplu\documents\visual studio 2015\Projects\MNG930_project\Automation\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\koplu\documents\visual studio 2015\Projects\MNG930_project\Automation\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\koplu\documents\visual studio 2015\Projects\MNG930_project\Automation\bin\Debug\nunit.engine.dll
+C:\Users\koplu\documents\visual studio 2015\Projects\MNG930_project\Automation\bin\Debug\nunit.engine.api.dll
+C:\Users\koplu\documents\visual studio 2015\Projects\MNG930_project\Automation\bin\Debug\Automation.dll
+C:\Users\koplu\documents\visual studio 2015\Projects\MNG930_project\Automation\bin\Debug\Automation.pdb
+C:\Users\koplu\documents\visual studio 2015\Projects\MNG930_project\Automation\bin\Debug\nunit.framework.dll
+C:\Users\koplu\documents\visual studio 2015\Projects\MNG930_project\Automation\bin\Debug\WebDriver.dll
+C:\Users\koplu\documents\visual studio 2015\Projects\MNG930_project\Automation\bin\Debug\WebDriver.Support.dll
+C:\Users\koplu\documents\visual studio 2015\Projects\MNG930_project\Automation\bin\Debug\nunit.framework.pdb
+C:\Users\koplu\documents\visual studio 2015\Projects\MNG930_project\Automation\bin\Debug\nunit.framework.xml
+C:\Users\koplu\documents\visual studio 2015\Projects\MNG930_project\Automation\bin\Debug\WebDriver.xml
+C:\Users\koplu\documents\visual studio 2015\Projects\MNG930_project\Automation\bin\Debug\WebDriver.Support.xml
+C:\Users\koplu\documents\visual studio 2015\Projects\MNG930_project\Automation\obj\Debug\Automation.csprojResolveAssemblyReference.cache
+C:\Users\koplu\documents\visual studio 2015\Projects\MNG930_project\Automation\obj\Debug\Automation.dll
+C:\Users\koplu\documents\visual studio 2015\Projects\MNG930_project\Automation\obj\Debug\Automation.pdb
+C:\Users\koplu\documents\visual studio 2015\Projects\MNG930_project\Automation\bin\Debug\Automation.dll.config
