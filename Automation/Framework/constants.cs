@@ -16,6 +16,6 @@ namespace Automation.Framework
         public static string solpath = Path.GetDirectoryName(Path.GetDirectoryName(Path.GetDirectoryName(Path.GetDirectoryName(projectdllpath))));
         public static string url = ConfigurationManager.AppSettings.Get("appurl");
         public static string browser = ConfigurationManager.AppSettings.Get("browser");
-        public static string pathtodriverfiles = solpath + @"\packages\Selenium.Chrome.WebDriver.2.45\driver";
+        public static string pathtodriverfiles = solpath + @"\packages\Selenium.Chrome.WebDriver.74.0.0\driver";
     }
 }
